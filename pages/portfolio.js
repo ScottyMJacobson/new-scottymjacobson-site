@@ -12,7 +12,7 @@ const about = {
     `I build things with an eye for detail and a love for test coverage.
     Give me your business needs and I'll deliver you a spec and then some working, maintainable software.
     With 6 years and counting on JS stacks, I'm no stranger to picking up a new technology or framework to get the job done.`,
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/uc?id=1iCJC-SC7DhpJx2S-C4NxLlH5PmBRsgJ7&export=download',
   social: {
     linkedin: 'https://linkedin.com/in/scottymjacobson',
     github: 'https://github.com/scottymjacobson',
