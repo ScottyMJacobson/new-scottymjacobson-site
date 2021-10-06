@@ -20,7 +20,7 @@ const About = () => {
       <div className={`${styles.about__contact} center`}>
         {resume && (
           <a href={resume}>
-            <span type='button' className={`${styles.btn} ${styles['btn--outline']}`}>
+            <span type='button' className={`btn btn--outline ${styles['btn--outline']}`}>
               Resume
             </span>
           </a>

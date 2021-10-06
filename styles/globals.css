@@ -64,6 +64,13 @@ button {
   background-color: var(--clr-bg);
 }
 
+@media (max-width: 600px) {
+  .app {
+    align-items: flex-start;
+    margin-top: 2em;
+  }
+}
+
 .light {
   --clr-bg: #fcfcfc;
   --clr-bg-alt: #fff;
