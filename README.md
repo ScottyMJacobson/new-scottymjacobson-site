@@ -1,4 +1,4 @@
-My public website! A Next.js fork/port of Raj Shekhar's [Cleanfolio](https://github.com/rajshekhar26/cleanfolio), combined into the create-next-app boilerplate.
+My [public website](https://ScottyMJacobson.com)! A Next.js fork/port of Raj Shekhar's [Cleanfolio](https://github.com/rajshekhar26/cleanfolio), combined into the create-next-app boilerplate.
 
 ## To Run
 
