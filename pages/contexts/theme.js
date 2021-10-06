@@ -7,7 +7,8 @@ const ThemeProvider = ({ children }) => {
   const [themeName, setThemeName] = useState('light')
 
   useEffect(() => {
-    const isDark = localStorage.getItem('themeName') === 'dark'
+    const browserInDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const isDark = browserInDarkMode || localStorage.getItem('themeName') === 'dark'
     if (isDark) setThemeName('dark')
   }, [])
 
