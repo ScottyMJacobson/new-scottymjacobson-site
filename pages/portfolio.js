@@ -23,29 +23,29 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Eko Core Team Service Testing Utils',
+    name: 'TASL; TASL Listening Sessions',
     description:
-      "As leader of the service testing core team, I led the development of Eko's internal testing libraries, set internal standards and best practice, and helped bring many of the company's microservices from 0% to ~70% coverage.",
-    stack: ['Node.js', 'Jest', 'AWS', 'Kubernetes', 'CircleCI'],
+      'For my album "TASL; TASL", I set up a live listening room where fans could RSVP for specific sessions, and then log in from across the world to listen to the album in sync.',
+    stack: ['React', 'Next.js', 'TypeScript', 'Node.js', 'Vercel', 'Strapi', 'MongoDB', 'Magic.link'],
     // sourceCode: 'https://github.com',
     // livePreview: 'https://github.com',
   },
-  // {
-  //   name: 'Project 2',
-  //   description:
-  //     'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-  //   stack: ['SASS', 'TypeScript', 'React'],
-  //   sourceCode: 'https://github.com',
-  //   livePreview: 'https://github.com',
-  // },
-  // {
-  //   name: 'Project 3',
-  //   description:
-  //     'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-  //   stack: ['SASS', 'TypeScript', 'React'],
-  //   sourceCode: 'https://github.com',
-  //   livePreview: 'https://github.com',
-  // },
+  {
+    name: 'Eko Core Team - Service Testing',
+    description:
+      "As project lead, I led the development of Eko's internal testing libraries, shaped internal standards and best practice, and helped bring many of the company's microservices from 0% to ~70% coverage.",
+    stack: ['Node.js', 'Jest', 'AWS', 'Kubernetes', 'CircleCI', 'MongoDB', 'Kafka', 'TDD'],
+    // sourceCode: 'https://github.com',
+    // livePreview: 'https://github.com',
+  },
+  {
+    name: 'Sublime Light',
+    description:
+      "At Sublime Light, I manage a rotating team of volunteer developers to develop the MVP for a multimedia React app. The app leads users through an authentic kabbalistic audiovisual meditative experience by syncing ancient glyphs with audiovisual cues.",
+    stack: ['React', 'Node.js', 'Webpack'],
+    // sourceCode: 'https://github.com',
+    // livePreview: 'https://github.com',
+  },
 ]
 
 const skills = [
