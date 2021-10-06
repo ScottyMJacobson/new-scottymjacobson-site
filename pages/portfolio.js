@@ -9,7 +9,9 @@ const about = {
   name: 'Scotty Jacobson',
   role: 'Full Stack Engineer',
   description:
-    "I build things with an eye for detail and a love for test coverage. Give me your business needs and I'll deliver you a spec and then some working, maintainable software. It's been 6 years and counting on JS stacks, and I never shy away from learning the newest technologies.",
+    `I build things with an eye for detail and a love for test coverage.
+    Give me your business needs and I'll deliver you a spec and then some working, maintainable software.
+    With 6 years and counting on JS stacks, I'm no stranger to picking up a new technology or framework to get the job done.`,
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com/in/scottymjacobson',

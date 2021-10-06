@@ -7,7 +7,7 @@ const Footer = () => (
       href='https://github.com/rajshekhar26/cleanfolio'
       className={`link ${styles.footer__link}`}
     >
-      {" Cleanfolio "}
+      {" Cleanfolio."}
     </a>
   </footer>
 )

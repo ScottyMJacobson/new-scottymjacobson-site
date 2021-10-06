@@ -7,7 +7,7 @@ const About = () => {
   const { name, role, description, resume, social } = about
 
   return (
-    <div className={`${styles.about} ${styles.center}`}>
+    <div className={`${styles.about} center`}>
       {name && (
         <h1>
           Hi, I am <span className={styles.about__name}>{name}.</span>
@@ -17,7 +17,7 @@ const About = () => {
       {role && <h2 className={styles.about__role}>A {role}.</h2>}
       <p className={styles.about__desc}>{description && description}</p>
 
-      <div className={`${styles.about__contact} ${styles.center}`}>
+      <div className={`${styles.about__contact} center`}>
         {resume && (
           <a href={resume}>
             <span type='button' className={`${styles.btn} ${styles['btn--outline']}`}>
