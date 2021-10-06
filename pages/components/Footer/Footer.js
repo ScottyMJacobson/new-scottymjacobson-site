@@ -9,6 +9,15 @@ const Footer = () => (
     >
       {" Cleanfolio."}
     </a>
+    <br />
+    <br />
+    {"Source code available "}
+    <a
+      href='https://github.com/ScottyMJacobson/new-scottymjacobson-site'
+      className={`link ${styles.footer__link}`}
+    >
+      {" here."}
+    </a>
   </footer>
 )
 
