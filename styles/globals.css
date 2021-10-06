@@ -67,7 +67,6 @@ button {
 @media (max-width: 600px) {
   .app {
     align-items: flex-start;
-    margin-top: 2em;
   }
 }
 
@@ -150,7 +149,7 @@ main {
 .btn {
   display: block;
   cursor: pointer;
-  padding: 0.8em 1.4em;
+  padding: 0.5em 0.8em;
   font-weight: 500;
   font-size: 0.9rem;
   text-transform: lowercase;

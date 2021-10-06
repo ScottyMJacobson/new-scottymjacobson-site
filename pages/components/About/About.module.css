@@ -27,10 +27,11 @@
 
 .btn--outline {
   margin-right: 1em;
+  top: -3px; /* Align with the other buttons */
 }
 
 @media (max-width: 600px) {
-  .app .about {
+  .about {
     align-items: flex-start;
     margin-top: 2em;
   }
