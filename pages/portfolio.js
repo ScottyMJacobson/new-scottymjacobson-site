@@ -11,8 +11,8 @@ const about = {
   description:
     `I build things with an eye for detail and a love for test coverage.
     Give me your business needs and I'll deliver you a spec and then some working, maintainable software.
-    With 6 years and counting on JS stacks, I'm no stranger to picking up a new technology or framework to get the job done.`,
-  resume: 'https://drive.google.com/uc?id=1iCJC-SC7DhpJx2S-C4NxLlH5PmBRsgJ7&export=download',
+    With 7 years and counting on JS stacks, I'm no stranger to picking up a new technology or framework to get the job done.`,
+  resume: 'https://drive.google.com/uc?export=download&id=1RDzCsOznhQ85I5YstadwrAXXK0Y84mQQ',
   social: {
     linkedin: 'https://linkedin.com/in/scottymjacobson',
     github: 'https://github.com/scottymjacobson',
@@ -51,21 +51,21 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'JavaScript',
-  'Node.js',
-  'React',
   'TypeScript',
+  'ES6',
+  'Node.js',
+  'Express',
+  'React',
   'Next.js',
   'Jamstack',
   'AWS',
   'TDD',
   'HTML',
   'CSS',
-  'Material UI',
   'Git',
   'CI/CD',
   'Jest',
-  'Python',
+  'Serverless',
 ]
 
 const contact = {
