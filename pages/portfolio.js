@@ -31,9 +31,9 @@ const projects = [
     // livePreview: 'https://github.com',
   },
   {
-    name: 'Eko Core Team - Service Testing',
+    name: 'Eko Core Team',
     description:
-      "As project lead, I led the development of Eko's internal testing libraries, shaped internal standards and best practice, and helped bring many of the company's microservices from 0% to ~70% coverage.",
+      "As project lead, I led the development of Eko's cli tooling for bootstrapping and test-covering microservices; the task force brought many of the company's services from 0% to ~70% coverage, and the new create-service cli reduced the speed of shipping a new test-covered service from days to minutes.",
     stack: ['Node.js', 'Jest', 'AWS', 'Kubernetes', 'CircleCI', 'MongoDB', 'Kafka', 'TDD'],
     // sourceCode: 'https://github.com',
     // livePreview: 'https://github.com',
@@ -41,7 +41,7 @@ const projects = [
   {
     name: 'Sublime Light',
     description:
-      "At Sublime Light, I manage a rotating team of volunteer developers to develop the MVP for a multimedia React app. The app leads users through an authentic kabbalistic audiovisual meditative experience by syncing ancient glyphs with audiovisual cues.",
+      "At Sublime Light, I've managed and mentored a rotating team of volunteer junior developers to develop the MVP for a multimedia React app. The app leads users through an authentic kabbalistic audiovisual meditative experience by syncing ancient glyphs with audiovisual cues.",
     stack: ['React', 'Node.js', 'Webpack'],
     // sourceCode: 'https://github.com',
     // livePreview: 'https://github.com',
